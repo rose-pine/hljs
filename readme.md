@@ -15,16 +15,16 @@
 
 ```html
 <link
-      rel="stylesheet"
-      href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rosepine.min.css"
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
+    rel="stylesheet"
+    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rosepine.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
 ```
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+
 
 ## Thanks to
 
