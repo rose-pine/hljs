@@ -1,25 +1,25 @@
 * {
-    --color-rosepine-base: #191724;
-    --color-rosepine-surface: #1f1d2e;
-    --color-rosepine-overlay: #26233a;
+    --color-rosepine-base: #232136;
+    --color-rosepine-surface: #2a273f;
+    --color-rosepine-overlay: #393552;
     --color-rosepine-muted: #6e6a86;
     --color-rosepine-subtle: #908caa;
     --color-rosepine-text: #e0def4;
     --color-rosepine-love: #eb6f92;
     --color-rosepine-gold: #f6c177;
-    --color-rosepine-rose: #ebbcba;
-    --color-rosepine-pine: #31748f;
+    --color-rosepine-rose: #ea9a97;
+    --color-rosepine-pine: #3e8fb0;
     --color-rosepine-foam: #9ccfd8;
     --color-rosepine-iris: #c4a7e7;
-    --color-rosepine-highlight-low: #21202e;
-    --color-rosepine-highlight-med: #403d52;
-    --color-rosepine-highlight-high: #524f67;
+    --color-rosepine-highlight-low: #2a283e;
+    --color-rosepine-highlight-med: #44415a;
+    --color-rosepine-highlight-high: #56526e;
 }
 
 pre code.hljs {
     display: block;
     overflow-x: auto;
-    padding: 1em
+    padding: 1em;
 }
 
 code.hljs {
@@ -55,7 +55,7 @@ code.hljs {
 }
 
 .hljs-addition {
-    background-color: rgba(156, 207, 216, .5)
+    background-color: rgba(156, 207, 216, 0.5)
 }
 
 .hljs-deletion {
@@ -105,7 +105,7 @@ code.hljs {
 }
 
 .hljs-code {
-    color: var(--color-rosepine-iris);;
+    color: var(--color-rosepine-iris);
 }
 
 .hljs-emphasis {

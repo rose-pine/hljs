@@ -1,25 +1,25 @@
 * {
-    --color-rosepine-base: #191724;
-    --color-rosepine-surface: #1f1d2e;
-    --color-rosepine-overlay: #26233a;
-    --color-rosepine-muted: #6e6a86;
-    --color-rosepine-subtle: #908caa;
-    --color-rosepine-text: #e0def4;
-    --color-rosepine-love: #eb6f92;
-    --color-rosepine-gold: #f6c177;
-    --color-rosepine-rose: #ebbcba;
-    --color-rosepine-pine: #31748f;
-    --color-rosepine-foam: #9ccfd8;
-    --color-rosepine-iris: #c4a7e7;
-    --color-rosepine-highlight-low: #21202e;
-    --color-rosepine-highlight-med: #403d52;
-    --color-rosepine-highlight-high: #524f67;
+    --color-rosepine-base: #faf4ed;
+    --color-rosepine-surface: #fffaf3;
+    --color-rosepine-overlay: #f2e9e1;
+    --color-rosepine-muted: #9893a5;
+    --color-rosepine-subtle: #797593;
+    --color-rosepine-text: #575279;
+    --color-rosepine-love: #b4637a;
+    --color-rosepine-gold: #ea9d34;
+    --color-rosepine-rose: #d7827e;
+    --color-rosepine-pine: #286983;
+    --color-rosepine-foam: #56949f;
+    --color-rosepine-iris: #907aa9;
+    --color-rosepine-highlight-low: #f4ede8;
+    --color-rosepine-highlight-med: #dfdad9;
+    --color-rosepine-highlight-high: #cecacd;
 }
 
 pre code.hljs {
     display: block;
     overflow-x: auto;
-    padding: 1em
+    padding: 1em;
 }
 
 code.hljs {
@@ -55,7 +55,7 @@ code.hljs {
 }
 
 .hljs-addition {
-    background-color: rgba(156, 207, 216, .5)
+    background-color: rgba(156, 207, 216, 0.5)
 }
 
 .hljs-deletion {
@@ -105,7 +105,7 @@ code.hljs {
 }
 
 .hljs-code {
-    color: var(--color-rosepine-iris);;
+    color: var(--color-rosepine-iris);
 }
 
 .hljs-emphasis {
