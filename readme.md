@@ -16,17 +16,48 @@
 ```html
 <link
     rel="stylesheet"
-    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rosepine.min.css"
+    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rose-pine.min.css"
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
 />
 ```
 
+```html
+<link
+    rel="stylesheet"
+    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rose-pine-moon.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
+```
+
+```html
+<link
+    rel="stylesheet"
+    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rose-pine-dawn.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
+```
+
+> Note: these links might stop working at some point due to renames or similar repository changes
+
+
 ## Gallery
 
-### As seen on https://stepbro.voring.me
+**Rosé Pine**
 
-![image](https://user-images.githubusercontent.com/44733677/156076709-f01a5624-d50a-4e09-9bae-48494802ef07.png)
+![highlight.js with Rosé Pine](https://user-images.githubusercontent.com/16372321/227316298-6668954d-859e-439d-8a1d-2fb79346c100.jpg)
+
+
+**Rosé Pine Moon**
+
+![highlight.js with Rosé Pine Moon](https://user-images.githubusercontent.com/16372321/227316293-579c772a-ab7b-4b8f-ae19-4bafc61b0c99.jpg)
+
+
+**Rosé Pine Dawn**
+
+![highlight.js with Rosé Pine Dawn](https://user-images.githubusercontent.com/16372321/227316267-5d98c0ed-2046-47f1-98a6-213588297abd.jpg)
 
 ## Thanks to
 
