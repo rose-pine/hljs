@@ -44,17 +44,17 @@
 
 ### Rosé Pine
 
-![rosepine](./assets/rosepine.jpg)
+![rose-pine](https://user-images.githubusercontent.com/16372321/227316298-6668954d-859e-439d-8a1d-2fb79346c100.jpg)
 
 
 ### Rosé Pine Moon
 
-![rosepine-moon](./assets/rosepine-moon.jpg)
+![rose-pine-moon](https://user-images.githubusercontent.com/16372321/227316293-579c772a-ab7b-4b8f-ae19-4bafc61b0c99.jpg)
 
 
 ### Rosé Pine Dawn
 
-![rosepine-dawn](./assets/rosepine-dawn.jpg)
+![rose-pine-dawn](https://user-images.githubusercontent.com/16372321/227316267-5d98c0ed-2046-47f1-98a6-213588297abd.jpg)
 
 ## Thanks to
 
