@@ -45,19 +45,19 @@
 
 ## Gallery
 
-### Rosé Pine
+**Rosé Pine**
 
-![rose-pine](https://user-images.githubusercontent.com/16372321/227316298-6668954d-859e-439d-8a1d-2fb79346c100.jpg)
-
-
-### Rosé Pine Moon
-
-![rose-pine-moon](https://user-images.githubusercontent.com/16372321/227316293-579c772a-ab7b-4b8f-ae19-4bafc61b0c99.jpg)
+![highlight.js with Rosé Pine](https://user-images.githubusercontent.com/16372321/227316298-6668954d-859e-439d-8a1d-2fb79346c100.jpg)
 
 
-### Rosé Pine Dawn
+**Rosé Pine Moon**
 
-![rose-pine-dawn](https://user-images.githubusercontent.com/16372321/227316267-5d98c0ed-2046-47f1-98a6-213588297abd.jpg)
+![highlight.js with Rosé Pine Moon](https://user-images.githubusercontent.com/16372321/227316293-579c772a-ab7b-4b8f-ae19-4bafc61b0c99.jpg)
+
+
+**Rosé Pine Dawn**
+
+![highlight.js with Rosé Pine Dawn](https://user-images.githubusercontent.com/16372321/227316267-5d98c0ed-2046-47f1-98a6-213588297abd.jpg)
 
 ## Thanks to
 
