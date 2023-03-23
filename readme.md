@@ -42,9 +42,19 @@
 
 ## Gallery
 
-### As seen on https://stepbro.voring.me
+### Rosé Pine
 
-![image](https://user-images.githubusercontent.com/44733677/156076709-f01a5624-d50a-4e09-9bae-48494802ef07.png)
+![rosepine](./assets/rosepine.jpg)
+
+
+### Rosé Pine Moon
+
+![rosepine-moon](./assets/rosepine-moon.jpg)
+
+
+### Rosé Pine Dawn
+
+![rosepine-dawn](./assets/rosepine-dawn.jpg)
 
 ## Thanks to
 
