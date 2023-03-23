@@ -16,7 +16,7 @@
 ```html
 <link
     rel="stylesheet"
-    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rosepine.min.css"
+    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rose-pine.min.css"
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
 />
@@ -25,7 +25,7 @@
 ```html
 <link
     rel="stylesheet"
-    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rosepine-moon.min.css"
+    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rose-pine-moon.min.css"
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
 />
@@ -34,11 +34,14 @@
 ```html
 <link
     rel="stylesheet"
-    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rosepine-dawn.min.css"
+    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rose-pine-dawn.min.css"
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
 />
 ```
+
+> Note: these links might stop working at some point due to renames or similar repository changes
+
 
 ## Gallery
 
