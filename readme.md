@@ -22,6 +22,24 @@
 />
 ```
 
+```html
+<link
+    rel="stylesheet"
+    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rosepine-moon.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
+```
+
+```html
+<link
+    rel="stylesheet"
+    href="https://raw.githubusercontent.com/rose-pine/hljs/main/min/rosepine-dawn.min.css"
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+/>
+```
+
 ## Gallery
 
 ### As seen on https://stepbro.voring.me
